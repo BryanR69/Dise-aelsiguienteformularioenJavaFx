@@ -1,5 +1,5 @@
 # Dise-aelsiguienteformularioenJavaFx
-Este repositorio contiene un ejemplo básico de una interfaz de usuario JavaFX que muestra varios controles disponibles en JavaFX.
+Este repositorio contiene una interfaz de usuario JavaFX que muestra varios controles disponibles en JavaFX.
 ![Ejemplo]( https://github.com/BryanR69/Dise-aelsiguienteformularioenJavaFx/blob/main/IMAGEN.png)
 ## Descripción
 La aplicación JavaFX proporciona una interfaz de usuario simple que contiene varios controles como botones, casillas de verificación, hipervínculos, etc. Cada control se muestra junto con una etiqueta descriptiva.
